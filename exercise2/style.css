@@ -1,0 +1,19 @@
+p{
+    background-color: hsl(337, 67%, 65%);
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
+    
+}
+
+#big{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.size{
+    font-size: 24px;
+    
+
+}
+#fourth{
+    background-color: chartreuse;
+    font-weight: 750;
+}
